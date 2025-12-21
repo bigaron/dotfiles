@@ -4,3 +4,4 @@ g.mapleader = " " -- Set mapleader before lazy
 
 require("bigaron.lazy_init")
 require("bigaron.settings")
+require("bigaron.additional_configs")
